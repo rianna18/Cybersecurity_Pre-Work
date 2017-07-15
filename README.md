@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some trouble understanding how proxies work and getting the web traffic to go thorugh Burp, but I was able to get a hang of it quickly and felt very comfortable with the program after finishing all the challenges.
 
 ## License
 
